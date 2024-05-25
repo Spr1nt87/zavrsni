@@ -1,0 +1,6 @@
+@import url(https://unpkg.com/leaflet@1.9.4/dist/leaflet.css);
+
+.leaflet-container {
+  width: 800px;
+  height: 50vh;
+}
